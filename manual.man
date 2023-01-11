@@ -1,0 +1,28 @@
+./" Manpage for duzyskrypt
+.TH man 1 "14.06.2022" "duzyskrypt manual"
+.SH NAME
+duzyskrypt - aplikacja dla planowania treningów
+.SH SYNOPSIS
+ ./duzyskrypt
+.SH DESCRIPTION
+Aplikacja pomaga zorganizować każdy trening poprzez stworzenie listy cwiczen zrobienia. Pozwala również obliczyć swoje BMI, ustalić plan treningowy na dany dzień, czy też sprawdzić liczbę spalonych kalorii.
+.P
+Użytkownik może wybrać jedną z podanych opcji:
+ - Planowanie cwiczen
+ - Stay_fit
+ - Kalendarz treningow
+.P
+Pierwsze dwie opcje mają również inne opcje. Na przykład „lista cwiczen” ma opcje, takie jak usunięcie całej listy, usunięcie jednej pozycji lub wyświetlenie listy. Z kolei. „Stay_fit” umożliwia liczenie BMI, liczenie spalonych kalorii i wybór ćwiczeń na dany dzień. „Kalendarz cwiczen” nie mają w środku więcej opcji i zapisuje wynik w pliku txt.
+.P
+Uzyte są zenity i yad.
+.SH OPTIONS
+duzyskrypt nie ma żadnych opcji
+.SH BUGS
+Brak znanych błędów.
+.SH AUTHOR
+napisane przez Yevhenii Kasian (email: s187783@pg.edu.pl)
+.SH REPORTING BUGS
+email: s187783@pg.edu.pl
+
+
+
